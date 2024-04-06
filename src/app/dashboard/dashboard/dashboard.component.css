@@ -1,0 +1,23 @@
+.btn:hover {
+  opacity: 0.8;
+}
+
+.btn-pad{
+  margin-left: 3px;
+}
+
+.table-responsive{
+  margin-top: 20px;
+}
+
+.navbar{
+  margin: 20px;
+  background-color: black;
+}
+
+.navbar-heading {
+  font-family: 'Your Custom Font', sans-serif; /* Replace with your custom font */
+  font-size: 2rem; /* Adjust the font size as needed */
+  margin-top: 10px; /* Add some top margin for spacing */
+  color: #fff; /* Text color */
+}
